@@ -3,3 +3,12 @@ SAY I MADE SOME NEW CHANGES RIGHT... AND THESE CHANGES RIIGHT ARE MONUMENTALLY A
 oh btw how output c++ pls tnx
 
 the last change is stashed to main
+
+C++ Barebones
+
+#include <iostream>
+using namespace std;
+
+int main() {
+	return 0;
+}
